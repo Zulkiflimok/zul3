@@ -17,13 +17,13 @@ THANKS TO ALL MASTAH
 
 
 # ADD MY LINE
-<br> <a href="https://line.me/ti/p/~yuzril.1">LINUX™</a>
+<br> <a href="https://line.me/ti/p/~zul.1.01">LINUX™</a>
 
 # ADD MY CREATOR
-<br> <a href="https://line.me/ti/p/~yuzril.1">LINUX™</a>
+<br> <a href="https://line.me/ti/p/~zul.1.01">LINUX™</a>
 
 #ADD TEAM TERMUX
-<br> <a href="https://line.me/ti/p/~yuzril.1">LINUX™</a>
+<br> <a href="https://line.me/ti/p/~zul.1.01">LINUX™</a>
 
 #grup wansap
 <br> <a href="https://chat.whatsapp.com/LrynTVHbjN2BRzFRcMKrMu">grup wansap™</a>
@@ -44,7 +44,7 @@ cd zul3
 Python3 zul3.py
 
 
-Id line yuzril.1
+Id line zul.1.01
 
 TEAM TERMUX
 
